@@ -1,4 +1,4 @@
-# oi sou o Davi 👋
+# oi sou o Davi <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 
 ## estudante de ds
 <!--
